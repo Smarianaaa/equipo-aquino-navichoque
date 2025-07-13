@@ -1,0 +1,2 @@
+- Sheyla Aquino – Desarrolladora Frontend  
+- Mariana Navichoque – Desarrolladora Backend
